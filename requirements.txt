@@ -1,0 +1,16 @@
+gensim==4.3.1
+keras==2.6.0
+matplotlib==3.6.3
+nltk==3.9.1
+numpy==1.24.0
+pandas==1.5.3
+scipy==1.9.3
+seaborn==0.11.2
+selenium==4.10.0
+scikit-learn==1.2.2
+tensorflow==2.6.0
+tqdm==4.64.0
+transformers==4.28.1
+webdriver-manager==3.8.6
+wordcloud==1.9.2
+xgboost==1.4.2
